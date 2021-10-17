@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNINGS // для использования strcpy()
+﻿#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 
 using namespace std;
